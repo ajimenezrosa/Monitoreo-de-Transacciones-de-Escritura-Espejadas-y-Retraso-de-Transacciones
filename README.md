@@ -1,4 +1,4 @@
-# Documentación del Script SQL: Monitoreo de Transacciones de Escritura Espejadas y Retraso de Transacciones
+# SQL SERVER  Documentación del Script SQL: Monitoreo de Transacciones de Escritura Espejadas y Retraso de Transacciones
 
 **Propiedad de JOSE ALEJANDRO JIMENEZ ROSA**
 
